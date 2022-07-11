@@ -16,19 +16,28 @@
 
 // (num === 50) ? console.log('OK!') : console.log('Error');
 
-const num = 51;
+// const num = 51;
 
-switch (num) {
-    case 49: 
-        console.log('Неверно');
-        break;
-    case 100:
-        console.log('Неверно');
-        break;
-    case 50:
-        console.log('OK!');
-        break;
-    default:
-        console.log('Не в этот раз');
-        break;
-}
+// switch (num) {
+//     case 49: 
+//         console.log('Неверно');
+//         break;
+//     case 100:
+//         console.log('Неверно');
+//         break;
+//     case 50:
+//         console.log('OK!');
+//         break;
+//     default:
+//         console.log('Не в этот раз');
+//         break;
+// }
+
+// const hamburger = 3;
+// const fries = 1;
+
+// if (hamburger === 3 && fries) {
+//     console.log('Все сыты!');
+// } else {
+//     console.log('Идем в другой ресторан!');
+// }
